@@ -10,9 +10,13 @@ namespace GitRepoForConflict
     {
         static void Main(string[] args)
         {
+ 
             int x=10;
-            int y=x+x;
-            Console.WriteLine("Add="+y);
+            
+            int a=10;
+            int b=a+x;
+            Console.WriteLine("Add="+b);
+ 
         }
     }
 }
