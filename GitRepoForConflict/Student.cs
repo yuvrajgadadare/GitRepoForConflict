@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GitRepoForConflict
+{
+    internal class Student
+    {
+        public void AddStudent()
+        {
+            Console.WriteLine("Calling Add Student");
+        }
+    }
+}
